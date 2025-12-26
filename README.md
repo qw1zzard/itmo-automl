@@ -47,7 +47,7 @@
 | TabularAutoML         | 0.06819      | 0.06906       |
 | Sample submission     | 1.02164      | 1.02431       |
 
-![image](submissions\image.png)
+![image](submissions/image.png)
 
 ## Выводы
 
